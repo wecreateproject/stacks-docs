@@ -3,7 +3,7 @@
 # Start Here
 
 ## Stacks: The TL;DR
-
+-----
 **Stacks is the leading Bitcoin L2, bringing smart contract functionality to Bitcoin, without modifying Bitcoin itself.**
 
 Want to get a guided introduction to everything you need to know to become a Stacks developer? The Stacks Primer is a 5-day email course designed to take you from brand new to building your first contract, and even how to get paid for building out your own project.
